@@ -8,7 +8,8 @@ public class App {
 
     // Suma de dos números
     public static int suma(int a, int b) {
-        return 0;
+        int c = a + b;
+        return c;
     }
 
     // Resta de dos números
